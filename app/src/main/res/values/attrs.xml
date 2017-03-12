@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <attr name="eachWidth" format="dimension"/>
+    <declare-styleable name="CustomDrawView">
+        <attr name="eachWidth"/>
+    </declare-styleable>
+</resources >
